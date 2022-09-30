@@ -1,1 +1,1 @@
-# Herencia01
+# Ejercicio Herencia
