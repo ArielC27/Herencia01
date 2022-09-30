@@ -1,0 +1,15 @@
+C:\Users\marce\Desktop\Visual\Herencia01\Herencia01\bin\Debug\net6.0\Herencia01.exe
+C:\Users\marce\Desktop\Visual\Herencia01\Herencia01\bin\Debug\net6.0\Herencia01.deps.json
+C:\Users\marce\Desktop\Visual\Herencia01\Herencia01\bin\Debug\net6.0\Herencia01.runtimeconfig.json
+C:\Users\marce\Desktop\Visual\Herencia01\Herencia01\bin\Debug\net6.0\Herencia01.dll
+C:\Users\marce\Desktop\Visual\Herencia01\Herencia01\bin\Debug\net6.0\Herencia01.pdb
+C:\Users\marce\Desktop\Visual\Herencia01\Herencia01\obj\Debug\net6.0\Herencia01.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\Visual\Herencia01\Herencia01\obj\Debug\net6.0\Herencia01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\Visual\Herencia01\Herencia01\obj\Debug\net6.0\Herencia01.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\Visual\Herencia01\Herencia01\obj\Debug\net6.0\Herencia01.AssemblyInfo.cs
+C:\Users\marce\Desktop\Visual\Herencia01\Herencia01\obj\Debug\net6.0\Herencia01.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\Visual\Herencia01\Herencia01\obj\Debug\net6.0\Herencia01.dll
+C:\Users\marce\Desktop\Visual\Herencia01\Herencia01\obj\Debug\net6.0\refint\Herencia01.dll
+C:\Users\marce\Desktop\Visual\Herencia01\Herencia01\obj\Debug\net6.0\Herencia01.pdb
+C:\Users\marce\Desktop\Visual\Herencia01\Herencia01\obj\Debug\net6.0\Herencia01.genruntimeconfig.cache
+C:\Users\marce\Desktop\Visual\Herencia01\Herencia01\obj\Debug\net6.0\ref\Herencia01.dll
